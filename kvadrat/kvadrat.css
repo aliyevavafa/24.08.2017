@@ -1,0 +1,8 @@
+.kvadrat {
+   width        : 0px;
+    height       : 0x;
+   border-top      : 200px solid red;
+     border-left       : 200px solid blue;
+    border-right      : 200px solid green ; 
+    border-bottom     : 200px solid yellow ;
+}

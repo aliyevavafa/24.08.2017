@@ -1,0 +1,9 @@
+.ucbucaq{
+	width:0px;
+	height: 0px;
+	border-right: 200px solid white;
+	border-left:  200px solid white;
+	border-top:  200px solid red;
+	border-bottom:  200px solid white;
+	margin:50px 60px;
+}
